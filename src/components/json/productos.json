@@ -1,0 +1,300 @@
+[
+    {"index":1, "nombre":"SERUM ÁCIDO HIALURÓNICO",
+    "descripcion": "Serum de textura liviana y rápida absorción   hidrata en profundidad, tonifica y reafirma la piel. Formulado con Doble Ácido Hialurónico (de alto peso molecular: hidrata y preserva la elasticidad y el tono de la piel - de bajo peso molecular: mejora la apariencia de las arrugas finas) y con Provitamina B5 que estimula la producción de colágeno y elastina. Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
+    "imagen": "https://www.andromaco.com/Portals/0/images/ecommerce/7793742007118.jpg?v=202009", 
+    "precio":4.074, 
+    "stock":10, 
+    "categoria":"todo"},
+    
+    
+    
+    {"index":2, "nombre":"CREMA GEL CONTORNO DE OJOS ULTRA HIDRATACIÓN", 
+    "descripcion": "Formulada para la fina y delicada piel del contorno de los ojos. Hidrata y suaviza ojeras, mientras que previene las primeras líneas de expresión. De textura ultra liviana y de rápida absorción. Indicado para todo tipo de piel. Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
+    "imagen": "https://www.andromaco.com/Portals/0/images/ecommerce/7793742208508.jpg?v=202009", 
+    "precio":3.507,
+    "stock":10, 
+    "categoria":"hidratacion"},
+    
+    
+    
+    {"index":3, "nombre":"CREMA GEL ULTRA HIDRATACIÓN", 
+    "descripcion": "Hidrata en profundidad por 24 h y previene los primeros signos del envejecimiento con efecto antioxidante. De textura ultra liviana y de rápida absorción. Indicado para todo tipo de piel. Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
+    "imagen": "https://www.andromaco.com/Portals/0/images/ecommerce/7793742108518.jpg?v=202009", 
+    "precio":4.128, 
+    "stock":15, 
+    "categoria":"hidratacion"},
+    
+
+
+    {"index":4, "nombre":"CREMA CONTORNO DE OJOS ULTRA FIRMEZA", 
+    "descripcion": "Formulada para la fina y delicada piel del contorno de los ojos. Hidrata y descongestiona ojeras. Suaviza líneas de expresión. Indicado para piel normal a mixta. Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742208522.jpg", 
+    "precio":5.659, 
+    "stock":9, 
+    "categoria":"firmeza"}, 
+
+
+
+
+
+    {"index":5, "nombre":"CREMA DE DÍA ULTRA FIRMEZA CON FPS 30", 
+    "descripcion": "Formulada para hidratar, prevenir y suavizar primeras líneas de expresión. Efecto reafirmante. Disminuye la pérdida de ácido hialurónico. Protege con FPS30. Indicada para piel normal a mixta Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742208539.jpg", 
+    "precio":6.059, 
+    "stock":10, 
+    "categoria":"firmeza"}, 
+
+
+
+
+    {"index":6, "nombre":"CREMA DE NOCHE ULTRA FIRMEZA", 
+    "descripcion": "Formulada para regenerar la piel durante la noche. Hidrata, previene y suaviza primeras líneas de expresión. Efecto reafirmante. Disminuye la pérdida de ácido hialurónico. Indicada para piel normal a mixta. Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742008542.jpg", 
+    "precio":6316, 
+    "stock":10, 
+    "categoria":"firmeza"}, 
+
+
+
+    {"index":7, "nombre":"CREMA DE DÍA ULTRA VOLUMEN CON FPS 30", 
+    "descripcion": "Formulada para hidratar y atenuar arrugas. Mejora la elasticidad y aporta firmeza, perdidas por la disminución de la producción de colágeno y ácido hialurónico. Protege con FPS30. Indicado para piel normal a seca. Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742008566.jpg", 
+    "precio":6059, 
+    "stock":10, 
+    "categoria":"volumen"}, 
+
+
+
+    {"index":8, "nombre":"CREMA DE NOCHE ULTRA VOLUMEN", 
+    "descripcion": "Formulada para regenerar la piel durante la noche. Hidrata y atenúa arrugas. Mejora la elasticidad y aporta firmeza, perdidas por la disminución de la producción de colágeno y ácido hialurónico. Indicado para piel normal a seca. Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742008573.jpg", 
+    "precio":6316, 
+    "stock":13, 
+    "categoria":"volumen"}, 
+
+
+
+    {"index":9, "nombre":"CREMA CONTORNO DE OJOS ULTRA VOLUMEN + ESTRUCTURA", 
+    "descripcion": "Formulada para la fina y delicada piel del contorno de los ojos. Hidrata y descongestiona ojeras. Atenúa arrugas. Efecto tensor. Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742108556.jpg", 
+    "precio":5659, 
+    "stock":10, 
+    "categoria":"estructura"}, 
+
+
+
+
+    {"index":10, "nombre":"CREMA DE DÍA ULTRA ESTRUCTURA CON FPS 30", 
+    "descripcion": "Formulada para hidratar y atenuar arrugas profundas. Reafirma el contorno facial al estimular la producción de colágeno y evitar su degradación. Protege con FPS30. Indicado para piel normal a seca. Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742108587.jpg", 
+    "precio":6059, 
+    "stock":10, 
+    "categoria":"ultra"}, 
+
+
+
+    {"index":11, "nombre":"CREMA DE NOCHE ULTRA ESTRUCTURA", 
+    "descripcion": "Formulada para regenerar la piel durante la noche. Hidrata y atenúa arrugas profundas. Reafirma el contorno facial al estimular la producción de colágeno y evitar su degradación. Indicado para piel normal a seca. Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742008597.jpg", 
+    "precio":6316, 
+    "stock":8, 
+    "categoria":"ultra"}, 
+
+
+
+
+    {"index":12, "nombre":"CREMA CON COLOR BB CREAM TONO CLARO CON FPS30", 
+    "descripcion": "Crema con color que brinda una solución práctica en un solo paso. Promueve una hidratación por 24 h, unifica el tono de manera natural, ilumina y protege la piel. Otorga elasticidad y suavidad sin efecto graso. Previene los signos de envejecimiento prematuro. Disponible en tono claro y tono medio. Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007958.jpg", 
+    "precio":3897, 
+    "stock":10, 
+    "categoria":"proteccion"}, 
+
+
+
+
+
+    {"index":13, "nombre":"CREMA CON COLOR BB CREAM TONO MEDIO CON FPS30", 
+    "descripcion": "Crema con color que brinda una solución práctica en un solo paso. Promueve una hidratación por 24 h, unifica el tono de manera natural, ilumina y protege la piel. Otorga elasticidad y suavidad sin efecto graso. Previene los signos de envejecimiento prematuro. Disponible en tono claro y tono medio. Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007965.jpg", 
+    "precio":3897, 
+    "stock":10, 
+    "categoria":"proteccion"}, 
+
+
+
+
+
+    {"index":14, "nombre":"CREMA CON COLOR CC CREAM ULTRA AGE CON FPS30", 
+    "descripcion": "Crema con color, y Ácido Hialurónico, que promueve una hidratación por 24 h, unifica el tono de manera natural, ilumina y protege la piel a la vez que suaviza arrugas, corrige imperfecciones y reafirma la piel. Otorga mayor flexibilidad, elasticidad y tonicidad a la piel brindando suavidad sin efecto graso. Disponible en tono medio. Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007422.jpg", 
+    "precio":5403, 
+    "stock":10, 
+    "categoria":"proteccion"}, 
+
+
+
+
+
+
+    {"index":15, "nombre":"AGUA MICELAR X 200ML", 
+    "descripcion": "Resuelve la rutina de limpieza en un solo paso: desmaquilla, limpia, tonifica, ilumina, hidrata y calma. Con efecto purificante. Deja la piel suave y fresca sin sensación de oleosidad. Sin alcohol. Indicada para todo tipo de piel.  Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007415.jpg", 
+    "precio":2083, 
+    "stock":10, 
+    "categoria":"limpieza"},
+
+
+
+
+    {"index":16, "nombre":"AGUA MICELAR X 400ML", 
+    "descripcion": "Resuelve la rutina de limpieza en un solo paso: desmaquilla, limpia, tonifica, ilumina, hidrata y calma. Con efecto purificante. Deja la piel suave y fresca sin sensación de oleosidad. Sin alcohol. Indicada para todo tipo de piel. Presentación con más contenido, por 400 ml.  Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007439.jpg", 
+    "precio":2640, 
+    "stock":10, 
+    "categoria":"limpieza"},
+
+
+
+
+    {"index":17, "nombre":"LECHE DE LIMPIEZA ACTIVA", 
+    "descripcion": "Elimina en profundidad el maquillaje y las impurezas diarias permitiendo a la piel respirar libremente. Hidrata y suaviza, sin dejar sensación de grasitud. Indicada para todo tipo de piel.  Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742005039.jpg", 
+    "precio":2313, 
+    "stock":9, 
+    "categoria":"limpieza"},
+
+
+    {"index":18, "nombre":"TÓNICO HIDRATANTE DESCONGESTIVO", 
+    "descripcion": "Restaura y equilibra la hidratación de la piel completando el proceso de limpieza facial, dejándola purificada y fresca. Además tiene un efecto descongestivo, emoliente y suavizante. No contiene alcohol. Indicado para todo tipo de piel.  Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742005046.jpg", 
+    "precio":2315, 
+    "stock":10, 
+    "categoria":"hidratacion"},
+
+
+    {"index":19, "nombre":"DESMAQUILLANTE BIFAZ DE OJOS", 
+    "descripcion": "Su fórmula bifaz elimina fácilmente el maquillaje a prueba de agua y de larga duración. Sin residuo graso. Para labios y ojos. Indicado para todo tipo de piel.  Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742005022.jpg", 
+    "precio":2210, 
+    "stock":10, 
+    "categoria":"limpieza"},
+
+
+
+    {"index":20, "nombre":"GEL DE LIMPIEZA PURIFICANTE", 
+    "descripcion": "Limpia en profundidad y elimina las impurezas diarias. Hidrata por 24h, calma y suaviza la piel. Ideal para aplicar bajo la ducha. Indicado para piel normal.   Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007934.jpg", 
+    "precio":2314, 
+    "stock":17, 
+    "categoria":"limpieza"},
+
+
+    {"index":21, "nombre":"CREMA HIDRATANTE DE DÍA CON FPS20", 
+    "descripcion":"Hidrata por 72 h. y protege la piel manteniéndola suave, luminosa y saludable. Previene manchas. Indicada para piel normal a seca.   Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742002915.jpg", 
+    "precio":4085, 
+    "stock":10, 
+    "categoria":"hidratacion"},
+
+
+    {"index":22, "nombre":"EMULSIÓN HIDRATANTE DE DÍA CON FPS 20", 
+    "descripcion": "  Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742002922.jpg", 
+    "precio":4085, 
+    "stock":7, 
+    "categoria":"hidratacion"},
+
+
+
+    {"index":23, "nombre":"CREMA HIDRATANTE DE DÍA CON FPS 12", 
+    "descripcion": "Hidrata por 72 h. y protege la piel manteniéndola suave, luminosa y saludable. Previene manchas. Indicada para piel normal a seca.  Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007897.jpg", 
+    "precio":1541, 
+    "stock":10, 
+    "categoria":"hidratacion"},
+
+
+
+    {"index":24, "nombre":"EMULSIÓN HIDRATANTE DE DÍA CON FPS 12", 
+    "descripcion": "Hidrata por 72 h. y protege la piel manteniéndola suave, luminosa y saludable. Previene manchas. Textura liviana. Indicada para piel normal a mixta.  Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007903.jpg", 
+    "precio":4014, 
+    "stock":10, 
+    "categoria":"hidratacion"},
+
+
+
+
+    {"index":25, "nombre":"CREMA NUTRITIVA DE NOCHE", 
+    "descripcion": "Nutre en profundidad, hidrata por 72 h. y repara los tejidos de colágeno y elastina. Previene el envejecimiento prematuro de la piel. Indicada para piel normal a seca.  Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007576.jpg", 
+    "precio":4307, 
+    "stock":10, 
+    "categoria":"nutricion"},
+
+
+
+
+    {"index":26, "nombre":"CREMA HIDRATANTE DE DÍA CON FPS20", 
+    "descripcion": "Hidrata por 72 h, suaviza y restaura la piel seca. Alivia la sensación de tirantez. Previene manchas. Indicada para piel seca a muy seca  Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007637.jpg", 
+    "precio":4085, 
+    "stock":19, 
+    "categoria":"hidratacion"},
+
+
+
+    {"index":27, "nombre":"CREMA NUTRITIVA DE NOCHE", 
+    "descripcion": "Nutre en profundidad, hidrata por 72 h. y repara los tejidos de colágeno y elastina. Alivia la sensación de tirantez. Previene el envejecimiento prematuro de la piel. Indicada para piel seca a muy seca.   Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007644.jpg", 
+    "precio":4307, 
+    "stock":10, 
+    "categoria":"nutricion"},
+
+
+
+
+    {"index":28, "nombre":"GEL DE LIMPIEZA PURIFICANTE", 
+    "descripcion": "Elimina impurezas diarias, disminuye el exceso de sebo y ayuda a controlar el acné. Efecto refrescante. Ideal para aplicar bajo la ducha. Indicado para piel mixta a grasa. Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007583.jpg", 
+    "precio":2314, 
+    "stock":10, 
+    "categoria":"limpieza"},
+
+
+
+
+
+    {"index":29, "nombre":"CREMA PROTECTORA CON FPS 30", 
+    "descripcion": "Hidrata por 24 h, suaviza y matifica. Sin sensación de grasitud. Previene manchas. Indicada para piel mixta a grasa.  Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007620.jpg", 
+    "precio":4085, 
+    "stock":10, 
+    "categoria":"proteccion"},
+
+
+
+
+    {"index":30, "nombre":"GEL DE HIDRATACIÓN EQUILIBRADA", 
+    "descripcion": "Hidrata por 72 h. Brinda frescura y suavidad. Controla el exceso de grasitud. Rápida absorción. Indicado para piel mixta a grasa.  Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007606.jpg", 
+    "precio":4085, 
+    "stock":10, 
+    "categoria":"hidratacion"},
+
+
+
+
+
+    {"index":31, "nombre":"CREMA PARA ROJECES CON FPS 30", 
+    "descripcion": "Especialmente formulada para mejorar la piel propensa al enrojecimiento. Hidrata por 24 h. Atenúa rojeces, calma y descongestiona. Su pigmento color verde equilibra el tono de la piel. Previene manchas. Indicada para piel enrojecida.  Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007309.jpg", 
+    "precio":5622, 
+    "stock":10, 
+    "categoria":"firmeza"}
+
+
+
+
+]

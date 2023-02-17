@@ -6,7 +6,7 @@ const NavBar = () => {
         <div className="container">
             <div className="row">
                 <div className="col">
-                    <nav class="navbar navbar-expand-lg ">
+                    <nav className="navbar navbar-expand-lg ">
                         <div className="container-fluid">
                         <a className="navbar-brand" href= {"/"}>  <img src= {logo} alt="Dermaglos Argentina" /> </a>
                         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
