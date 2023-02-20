@@ -1,28 +1,28 @@
 [
     {"index":1, "nombre":"SERUM ÁCIDO HIALURÓNICO",
     "descripcion": "Serum de textura liviana y rápida absorción   hidrata en profundidad, tonifica y reafirma la piel. Formulado con Doble Ácido Hialurónico (de alto peso molecular: hidrata y preserva la elasticidad y el tono de la piel - de bajo peso molecular: mejora la apariencia de las arrugas finas) y con Provitamina B5 que estimula la producción de colágeno y elastina. Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
-    "imagen": "https://www.andromaco.com/Portals/0/images/ecommerce/7793742007118.jpg?v=202009", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007118.jpg", 
     "precio":4.074, 
     "stock":10, 
-    "categoria":"todo"},
+    "categoria":"cuidadoFacial"},
     
     
     
     {"index":2, "nombre":"CREMA GEL CONTORNO DE OJOS ULTRA HIDRATACIÓN", 
     "descripcion": "Formulada para la fina y delicada piel del contorno de los ojos. Hidrata y suaviza ojeras, mientras que previene las primeras líneas de expresión. De textura ultra liviana y de rápida absorción. Indicado para todo tipo de piel. Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
-    "imagen": "https://www.andromaco.com/Portals/0/images/ecommerce/7793742208508.jpg?v=202009", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742208508.jpg", 
     "precio":3.507,
     "stock":10, 
-    "categoria":"hidratacion"},
+    "categoria":"cuidadoFacial"},
     
     
     
     {"index":3, "nombre":"CREMA GEL ULTRA HIDRATACIÓN", 
     "descripcion": "Hidrata en profundidad por 24 h y previene los primeros signos del envejecimiento con efecto antioxidante. De textura ultra liviana y de rápida absorción. Indicado para todo tipo de piel. Hipoalergénico. Apto piel sensible. Testeado dermatológica y oftalmológicamente. No comedogénico. Sin TACC. Sin parabenos. No testeado en animales", 
-    "imagen": "https://www.andromaco.com/Portals/0/images/ecommerce/7793742108518.jpg?v=202009", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742108518.jpg", 
     "precio":4.128, 
     "stock":15, 
-    "categoria":"hidratacion"},
+    "categoria":"cuidadoFacial"},
     
 
 
@@ -31,7 +31,7 @@
     "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742208522.jpg", 
     "precio":5.659, 
     "stock":9, 
-    "categoria":"firmeza"}, 
+    "categoria":"cuidadoFacial"}, 
 
 
 
@@ -42,7 +42,7 @@
     "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742208539.jpg", 
     "precio":6.059, 
     "stock":10, 
-    "categoria":"firmeza"}, 
+    "categoria":"cuidadoFacial"}, 
 
 
 
@@ -52,7 +52,7 @@
     "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742008542.jpg", 
     "precio":6316, 
     "stock":10, 
-    "categoria":"firmeza"}, 
+    "categoria":"cuidadoFacial"}, 
 
 
 
@@ -61,7 +61,7 @@
     "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742008566.jpg", 
     "precio":6059, 
     "stock":10, 
-    "categoria":"volumen"}, 
+    "categoria":"cuidadoFacial"}, 
 
 
 
@@ -70,7 +70,7 @@
     "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742008573.jpg", 
     "precio":6316, 
     "stock":13, 
-    "categoria":"volumen"}, 
+    "categoria":"cuidadoFacial"}, 
 
 
 
@@ -79,7 +79,7 @@
     "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742108556.jpg", 
     "precio":5659, 
     "stock":10, 
-    "categoria":"estructura"}, 
+    "categoria":"cuidadoFacial"}, 
 
 
 
@@ -89,7 +89,7 @@
     "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742108587.jpg", 
     "precio":6059, 
     "stock":10, 
-    "categoria":"ultra"}, 
+    "categoria":"cuidadoFacial"}, 
 
 
 
@@ -98,7 +98,7 @@
     "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742008597.jpg", 
     "precio":6316, 
     "stock":8, 
-    "categoria":"ultra"}, 
+    "categoria":"cuidadoFacial"}, 
 
 
 
@@ -108,7 +108,7 @@
     "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007958.jpg", 
     "precio":3897, 
     "stock":10, 
-    "categoria":"proteccion"}, 
+    "categoria":"cuidadoFacial"}, 
 
 
 
@@ -119,7 +119,7 @@
     "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007965.jpg", 
     "precio":3897, 
     "stock":10, 
-    "categoria":"proteccion"}, 
+    "categoria":"cuidadoFacial"}, 
 
 
 
@@ -130,7 +130,7 @@
     "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007422.jpg", 
     "precio":5403, 
     "stock":10, 
-    "categoria":"proteccion"}, 
+    "categoria":"cuidadoFacial"}, 
 
 
 
@@ -142,7 +142,7 @@
     "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007415.jpg", 
     "precio":2083, 
     "stock":10, 
-    "categoria":"limpieza"},
+    "categoria":"cuidadoFacial"},
 
 
 
@@ -152,7 +152,7 @@
     "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007439.jpg", 
     "precio":2640, 
     "stock":10, 
-    "categoria":"limpieza"},
+    "categoria":"cuidadoFacial"},
 
 
 
@@ -162,7 +162,7 @@
     "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742005039.jpg", 
     "precio":2313, 
     "stock":9, 
-    "categoria":"limpieza"},
+    "categoria":"cuidadoFacial"},
 
 
     {"index":18, "nombre":"TÓNICO HIDRATANTE DESCONGESTIVO", 
@@ -170,7 +170,7 @@
     "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742005046.jpg", 
     "precio":2315, 
     "stock":10, 
-    "categoria":"hidratacion"},
+    "categoria":"cuidadoFacial"},
 
 
     {"index":19, "nombre":"DESMAQUILLANTE BIFAZ DE OJOS", 
@@ -178,7 +178,7 @@
     "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742005022.jpg", 
     "precio":2210, 
     "stock":10, 
-    "categoria":"limpieza"},
+    "categoria":"cuidadoFacial"},
 
 
 
@@ -187,7 +187,7 @@
     "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007934.jpg", 
     "precio":2314, 
     "stock":17, 
-    "categoria":"limpieza"},
+    "categoria":"cuidadoFacial"},
 
 
     {"index":21, "nombre":"CREMA HIDRATANTE DE DÍA CON FPS20", 
@@ -195,7 +195,7 @@
     "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742002915.jpg", 
     "precio":4085, 
     "stock":10, 
-    "categoria":"hidratacion"},
+    "categoria":"cuidadoFacial"},
 
 
     {"index":22, "nombre":"EMULSIÓN HIDRATANTE DE DÍA CON FPS 20", 
@@ -203,7 +203,7 @@
     "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742002922.jpg", 
     "precio":4085, 
     "stock":7, 
-    "categoria":"hidratacion"},
+    "categoria":"cuidadoFacial"},
 
 
 
@@ -212,7 +212,7 @@
     "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007897.jpg", 
     "precio":1541, 
     "stock":10, 
-    "categoria":"hidratacion"},
+    "categoria":"cuidadoFacial"},
 
 
 
@@ -221,7 +221,7 @@
     "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007903.jpg", 
     "precio":4014, 
     "stock":10, 
-    "categoria":"hidratacion"},
+    "categoria":"cuidadoFacial"},
 
 
 
@@ -231,7 +231,7 @@
     "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007576.jpg", 
     "precio":4307, 
     "stock":10, 
-    "categoria":"nutricion"},
+    "categoria":"cuidadoFacial"},
 
 
 
@@ -241,7 +241,7 @@
     "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007637.jpg", 
     "precio":4085, 
     "stock":19, 
-    "categoria":"hidratacion"},
+    "categoria":"cuidadoFacial"},
 
 
 
@@ -250,7 +250,7 @@
     "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007644.jpg", 
     "precio":4307, 
     "stock":10, 
-    "categoria":"nutricion"},
+    "categoria":"cuidadoFacial"},
 
 
 
@@ -260,7 +260,7 @@
     "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007583.jpg", 
     "precio":2314, 
     "stock":10, 
-    "categoria":"limpieza"},
+    "categoria":"cuidadoFacial"},
 
 
 
@@ -271,9 +271,7 @@
     "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007620.jpg", 
     "precio":4085, 
     "stock":10, 
-    "categoria":"proteccion"},
-
-
+    "categoria":"cuidadoFacial"},
 
 
     {"index":30, "nombre":"GEL DE HIDRATACIÓN EQUILIBRADA", 
@@ -281,10 +279,7 @@
     "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007606.jpg", 
     "precio":4085, 
     "stock":10, 
-    "categoria":"hidratacion"},
-
-
-
+    "categoria":"cuidadoFacial"},
 
 
     {"index":31, "nombre":"CREMA PARA ROJECES CON FPS 30", 
@@ -292,7 +287,111 @@
     "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007309.jpg", 
     "precio":5622, 
     "stock":10, 
-    "categoria":"firmeza"}
+    "categoria":"cuidadoFacial"},
+
+
+
+
+    {"index":32, "nombre":"EMULSIÓN HIDRATACIÓN + PROTECCIÓN CON FPS 20", 
+    "descripcion": "La nueva emulsión Hidratación + Protección FPS20 de Dermaglós otorga una propuesta completa en hidratación prolongada y a la vez aporta protección solar urbana en un solo paso, sin dejar efecto graso. Piel sensible - Hipoalergénica - Testeada dermatológicamente - Fresca fragancia - Sin TACC", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007361.jpg", 
+    "precio":3007, 
+    "stock":25, 
+    "categoria":"cuidadoCorporal"},
+
+    {"index":33, "nombre":"EMULSIÓN CORPORAL. PIEL DEL DIABÉTICO 300G", 
+    "descripcion": "La emulsión corporal piel del diabético tiene una exclusiva formulación que contiene una combinación de Urea, Aceite de Rosa Mosqueta, Castaño de Indias y efecto antiglicante que otorgan máxima hidratación y suavidad a la piel sana de las personas con diabetes, disminuyendo así la resequedad especialmente en codos y pies. Acción: 24 HS MÁXIMA HIDRATACIÓN. Evita la pérdida de elasticidad, rigidez y amarilleo de la piel. Protege de la fragilidad cutánea. ", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007972.jpg", 
+    "precio":4959, 
+    "stock":17, 
+    "categoria":"cuidadoCorporal"},
+
+    {"index":34, "nombre":"EMULSIÓN CORPORAL. PIEL DEL DIABÉTICO 50ml", 
+    "descripcion": "La emulsión corporal piel del diabético tiene una exclusiva formulación que contiene una combinación de Urea, Aceite de Rosa Mosqueta, Castaño de Indias y efecto antiglicante que otorgan máxima hidratación y suavidad a la piel sana de las personas con diabetes, disminuyendo así la resequedad especialmente en codos y pies. Acción: 24 HS MÁXIMA HIDRATACIÓN. Evita la pérdida de elasticidad, rigidez y amarilleo de la piel. Protege de la fragilidad cutánea.", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007989.jpg", 
+    "precio":1906, 
+    "stock":10, 
+    "categoria":"cuidadoCorporal"},
+
+    {"index":35 , 
+    "nombre":"CREMA CORPORAL. PIEL DEL DIABÉTICO 100g", 
+    "descripcion": "La crema corporal piel del diabético tiene una exclusiva formulación que contiene una combinación de Urea, Aceite de Rosa Mosqueta, Castaño de Indias y efecto antiglicante que otorgan máxima hidratación y suavidad a la piel sana de las personas con diabetes, disminuyendo así la resequedad especialmente en codos y pies. Ideal para zonas muy secas y deshidratadas. Acción: 24 HS MÁXIMA HIDRATACIÓN. Evita la pérdida de elasticidad, rigidez y amarilleo de la piel. Protege de la fragilidad cutánea. ", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007996.jpg", 
+    "precio":3276, 
+    "stock":19, 
+    "categoria":"cuidadoCorporal"},
+
+    {"index":36, "nombre":"EMULSIÓN CORPORAL REGENERACIÓN INTENSIVA", 
+    "descripcion": "Su fórmula con 250.000 U.I. de Vitamina A ayuda a reparar la piel deshidratada dejándola suave, elástica y saludable. Estimula la regeneración celular y la formación de colágeno, contrarrestando el proceso de envejecimiento de la piel. Mejora visiblemente la apariencia de líneas, arrugas, cicatrices y pieles con tatuajes. Textura liviana. Indicada para piel seca y muy seca. Hipoalergénica - Apto piel sensible – Testeada dermatológicamente – Sin TACC", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007675.jpg", 
+    "precio":3916, 
+    "stock":10, 
+    "categoria":"cuidadoCorporal"},
+
+    {"index":37, "nombre":"CREMA CORPORAL HIDRATACIÓN INMEDIATA 300G", 
+    "descripcion": "Su textura de crema liviana permite una fácil aplicación y rápida absorción. Hidrata por 24 h, dejando la piel suave, elástica y saludable sin efecto graso. Ideal para aplicar antes de vestirte. Indicada para todo tipo de piel. Hipoalergénica – Apto piel sensible – Testeada dermatológicamente – Sin TACC", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007378.jpg", 
+    "precio":3916, 
+    "stock":23, 
+    "categoria":"cuidadoCorporal"},
+
+    {"index":38, "nombre":"CREMA CORPORAL HIDRATACIÓN INMEDIATA 175G", 
+    "descripcion": "Su textura de crema liviana permite una fácil aplicación y rápida absorción. Hidrata por 24 h, dejando la piel suave, elástica y saludable sin efecto graso. Ideal para aplicar antes de vestirte. Indicada para todo tipo de piel. Hipoalergénica – Apto piel sensible – Testeada dermatológicamente – Sin TACC", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007330.jpg", 
+    "precio":2941, 
+    "stock":10, 
+    "categoria":"cuidadoCorporal"},
+
+    {"index":39, "nombre":"EMULSIÓN CORPORAL HIDRATACIÓN INMEDIATA EN SPRAY CONTINUO", 
+    "descripcion": "La nueva emulsión corporal Hidratación Inmediata en formato spray continuo 360°, es de fácil aplicación y rápida absorción en menos de 1 minuto. Además su fórmula brinda una hidratación prolongada, dejando la piel suave y luminosa sin efecto graso. Piel sensible – Hipoalergénica - Testeada dermatológicamente - Fresca fragancia – Sin TACC", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007668.jpg", 
+    "precio":3027, 
+    "stock":10, 
+    "categoria":"cuidadoCorporal"},
+
+    {"index":40, "nombre":"CREMA CORPORAL HIDRATACIÓN PROFUNDA 200g", 
+    "descripcion": "Normaliza el nivel de hidratación de la piel seca dejándola suave, elástica y saludable. Previene el envejecimiento prematuro de la piel. Ideal para talones, rodillas, codos y zonas específicas. Indicada para piel seca. Hipoalergénica – Apto piel sensible – Testeada dermatológicamente – Sin TACC", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007774.jpg", 
+    "precio":3556, 
+    "stock":13, 
+    "categoria":"cuidadoCorporal"},
+
+    {"index":41, "nombre":"CREMA SUAVIZANTE PARA MANOS 50g", 
+    "descripcion": "Proporciona hidratación y suavidad a manos, uñas y cutículas. Restaura las manos agrietadas. Previene la aparición de manchas. Con FPS15. Hipoalergénica – Apto piel sensible – Testeada dermatológicamente – Sin TACC", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007910.jpg", 
+    "precio":1613, 
+    "stock":10, 
+    "categoria":"cuidadoCorporal"},
+    
+    {"index":42, "nombre":"CREMA SUAVIZANTE PARA MANOS 120G", 
+    "descripcion": "Proporciona hidratación y suavidad a manos, uñas y cutículas. Restaura las manos agrietadas. Previene la aparición de manchas. Con FPS15. Hipoalergénica – Apto piel sensible – Testeada dermatológicamente – Sin TACC", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007927.jpg", 
+    "precio":2572, 
+    "stock":10, 
+    "categoria":"cuidadoCorporal"},
+
+    {"index":43, "nombre":"CREMA CORPORAL REGENERACIÓN INTENSIVA", 
+    "descripcion": "Su fórmula con 250.000 U.I. de Vitamina A ayuda a reparar la piel deshidratada dejándola suave, elástica y saludable. Estimula la regeneración celular y la formación de colágeno, contrarrestando el proceso de envejecimiento de la piel. Mejora visiblemente la apariencia de líneas, arrugas, cicatrices y pieles con tatuajes. Ideal para talones, rodillas, codos y zonas específicas. Indicada para piel seca y muy seca. Hipoalergénica – Apto piel sensible – Testeada dermatológicamente – Sin TACC", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007682.jpg", 
+    "precio":2897, 
+    "stock":10, 
+    "categoria":"cuidadoCorporal"},
+
+    {"index":44, "nombre":"EMULSIÓN CORPORAL HIDRATACIÓN PROFUNDA", 
+    "descripcion": "Normaliza el nivel de hidratación de la piel seca dejándola suave, elástica y saludable. Previene el envejecimiento prematuro de la piel. Textura liviana. Indicada para piel seca. Hipoalergénica – Apto piel sensible – Testeada dermatológicamente – Sin TACC", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007569.jpg", 
+    "precio":3282, 
+    "stock":17, 
+    "categoria":"cuidadoCorporal"},
+
+    {"index":45, "nombre":"CREMA CORPORAL HIDRATACIÓN PROFUNDA 100g", 
+    "descripcion": "Normaliza el nivel de hidratación de la piel seca dejándola suave, elástica y saludable. Previene el envejecimiento prematuro de la piel. Ideal para talones, rodillas, codos y zonas específicas. Indicada para piel seca. Hipoalergénica – Apto piel sensible – Testeada dermatológicamente – Sin TACC", 
+    "imagen": "https://www.andromaco.com/DesktopModules/Articles/MakeThumbnail.aspx?w=350&Image=%2fPortals%2f0%2fimages%2fecommerce%2f7793742007767.jpg", 
+    "precio":2364, 
+    "stock":13, 
+    "categoria":"cuidadoCorporal"}
+
+    
 
 
 
