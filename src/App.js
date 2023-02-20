@@ -13,7 +13,7 @@ function App() {
     <BrowserRouter>
         <div>
           <NavBar />
-          <Destacada />
+          <Destacada/>
           <Routes>
           <Route path={"/" } element={<ItemListContainer />} />
           <Route path={"/category/:id" } element={<ItemListContainer />} />

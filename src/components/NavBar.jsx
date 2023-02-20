@@ -1,4 +1,5 @@
 import CartWidget from "./CartWidget";
+import Destacada from "./Destacada";
 import { Link, NavLink } from "react-router-dom";
 import logo from "./images/logo-Dermaglos.png";
 
@@ -35,7 +36,9 @@ const NavBar = () => {
                 <div className="col d-flex align-items-end justify-content-end">
                 <CartWidget/>
                 </div>
+
             </div>
+
             
         </div>
 
