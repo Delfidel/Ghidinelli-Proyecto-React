@@ -1,5 +1,5 @@
 import CartWidget from "./CartWidget";
-import Destacada from "./Destacada";
+
 import { Link, NavLink } from "react-router-dom";
 import logo from "./images/logo-Dermaglos.png";
 
